@@ -1,5 +1,8 @@
+body {
+    background-image: url('Bg.JPG');
+}
 h1 {
-    color: whitesmoke;
+    color:whitesmoke;
     font-size: 50px;
 }
 
@@ -17,4 +20,12 @@ p {
 li {
     color: navy;
     font-size: 28px;
+}
+
+#heading {
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: cursive;
+    text-transform: capitalize;
 }
