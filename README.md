@@ -3,7 +3,7 @@
 
 ## My profile
 
-![Pics](Pond.jpg)s
+![Pics](Pond.jpg)
 ### Name: Thammasat Thonggamgaew
 ### Nickname: Pond
 ### Computer Engineering
