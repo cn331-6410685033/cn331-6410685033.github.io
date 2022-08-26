@@ -4,10 +4,14 @@
 ## My profile
 
 ![Pics](Pond.jpg)
-Name: Thammasat Thonggamgaew 
+Name: Thammasat Thonggamgaew
+
 Nickname: Pond 
+
 Computer Engineering 
+
 Thammasat University 
+
 
 ## Contact me
 
